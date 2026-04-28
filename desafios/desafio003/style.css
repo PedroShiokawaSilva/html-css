@@ -1,0 +1,9 @@
+@charset "UTF-8";
+    body{
+        background-color: rgb(48, 47, 47);
+
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace; color:white; 
+        text-align: center;
+    }
